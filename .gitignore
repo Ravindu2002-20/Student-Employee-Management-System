@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Generated Prisma Client
+/generated/prisma
+
+# Prisma migrations (optional - uncomment if you want to version control migrations)
+# prisma/migrations/
